@@ -1,43 +1,43 @@
 body {
-  background-color: red;
+  background-color: yellow;
 }
 
 h1 {
-  color: yellow;
+  color: black;
   margin-left: 20px;
   font-family: Helvetica, Arial;
 }
 
 h2 {
-  color: yellow;
+  color: red;
   margin-left: 20px;
   font-family: Helvetica, Arial;
 }
 
 p {
-  color: yellow;
+  color: black;
   margin-left: 20px;
   font-family:Helvetica, Arial;
 }
 a:link {
   text-decoration: none;
-  color: yellow;
+  color: red;
 }
 
 a:visited {
   text-decoration: none;
-    color: yellow;
+    color: red;
 
 }
 
 a:hover {
   text-decoration: underline;
-    color: yellow;
+    color: red;
 
 }
 
 a:active {
   text-decoration: underline;
-    color: yellow;
+    color: red;
 
 }
