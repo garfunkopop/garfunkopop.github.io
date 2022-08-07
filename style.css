@@ -5,17 +5,17 @@ body {
 h1 {
   color: yellow;
   margin-left: 20px;
-  font-family: Futura, Helvetica, Arial;
+  font-family: Helvetica, Arial;
 }
 
 h2 {
   color: yellow;
   margin-left: 20px;
-  font-family: Futura, Helvetica, Arial;
+  font-family: Helvetica, Arial;
 }
 
 p {
   color: yellow;
   margin-left: 20px;
-  font-family:"Courier New", Helvetica, Arial;
+  font-family:Helvetica, Arial;
 }
