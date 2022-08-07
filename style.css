@@ -19,3 +19,25 @@ p {
   margin-left: 20px;
   font-family:Helvetica, Arial;
 }
+a:link {
+  text-decoration: none;
+  color: yellow;
+}
+
+a:visited {
+  text-decoration: none;
+    color: yellow;
+
+}
+
+a:hover {
+  text-decoration: underline;
+    color: yellow;
+
+}
+
+a:active {
+  text-decoration: underline;
+    color: yellow;
+
+}
