@@ -6,3 +6,8 @@ h1 {
   color: yellow;
   margin-left: 20px;
 }
+p {
+  color: white;
+  font-family:Helvetica, Arial;
+  margin-left: 20px;
+}
